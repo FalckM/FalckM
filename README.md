@@ -1,12 +1,16 @@
-- 👋 Hi, I’m @FalckM
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Hi, I'm Mats
+Bachelor's student in IT and Information Systems at the University of Agder (UiA).
+Interested in AI development and continuously picking up new technologies and languages along the way.
 
-<!---
-FalckM/FalckM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Areas of interest
+
+Artificial intelligence and machine learning
+Software development
+Information systems
+
+Currently learning
+
+Always something new
+
+
+Feel free to browse my repositories or reach out.
